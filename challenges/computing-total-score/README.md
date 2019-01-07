@@ -1,4 +1,4 @@
-Computing Total Score
+# Computing Total Score
 
 Challenge:
 You are passed an array of blocks to compute the total score.
