@@ -11,6 +11,7 @@ The goal of this is to find out what all possible options for someone to eat are
 
 Create an algorithm to return all possible combinations of person to food choice. It is possible that there are no valid possibilities, at which point, return an empty array.
 
+```
 var lunchMenuPairs = [
     ["Curry", "Indian"],
     ["Noodles", "Japanese"]
@@ -26,3 +27,4 @@ var output = [
     ["John", ["Curry"]],
     ["Tim", ["Curry", "Noodles"]]
 ];
+```
