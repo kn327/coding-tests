@@ -27,18 +27,18 @@ var files = [
 ```
 The above would display as:
 > All Files
-    >> Media
-        >>> Photos
-            >>>> **Birthday.png**
-            >>>> **Car.png**
-        >>> Videos
-            >>>> **Concert.mp4**
-            >>>> **Wedding.mp4**
-        >>> **Meme.gif**
-    >> Personal
-        >>> Documents
-            >>>> **ToDo List.txt**
-            >>>> **Course Assignment.txt**
+>> Media
+>>> Photos
+>>>> **Birthday.png**
+>>>> **Car.png**
+>>> Videos
+>>>> **Concert.mp4**
+>>>> **Wedding.mp4**
+>>> **Meme.gif**
+>> Personal
+>>> Documents
+>>>> **ToDo List.txt**
+>>>> **Course Assignment.txt**
 
 There may be circumstances in which a given user may only have access to a portion of the file structure. In these circumstances, the unparented nodes are displayed as siblings at the highest level, and only the parented files appear.
 ```
@@ -60,15 +60,15 @@ var files = [
 ```
 The above output would display as
 > Personal
-    >> Documents
-        >>> **ToDo List.txt**
-        >>> **Course Assignment.txt**
+>> Documents
+>>> **ToDo List.txt**
+>>> **Course Assignment.txt**
 > Photos
-    >> **Birthday.png**
-    >> **Car.png**
+>> **Birthday.png**
+>> **Car.png**
 > Videos
-    >> **Concert.mp4**
-    >> **Wedding.mp4**
+>> **Concert.mp4**
+>> **Wedding.mp4**
 
 Challenge:
 Write a function that will take either of the above two arrays and return the hierarchical representation with the folders sorted alphabetically first, followed by the files sorted alphabetically.
