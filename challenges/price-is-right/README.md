@@ -5,9 +5,9 @@ The price is right is a game on tv where contestants win by guessing the monetar
 Challenge:
 Write a function that takes the price and the guesses from the contestants, and determines the winner of the round by returning the index of the winning guess.
 
-Requirements:
-[x] If a winner is not found, return -1.
-[x] Code must be clean and optimal.
+Requirements:\
+[x] If a winner is not found, return -1.\
+[x] Code must be clean and optimal.\
 [x] Handle all error conditions and edge cases.
 
 Examples:
