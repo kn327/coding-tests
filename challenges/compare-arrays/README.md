@@ -1,4 +1,4 @@
-# Intersect Arrays
+# Compare Arrays
 
 Challenge:
 Given the following two arrays, find and return the unique duplicate values in both.
