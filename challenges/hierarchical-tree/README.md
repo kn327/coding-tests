@@ -71,4 +71,4 @@ The above output would display as
     * **Wedding.mp4** (file)
 
 Challenge:
-Write a function that will take either of the above two arrays and return the hierarchical representation with the folders sorted alphabetically first, followed by the files sorted alphabetically.
+Write a function that can take either of the above two array combinations and return the hierarchical representation with the folders sorted alphabetically first, followed by the files sorted alphabetically.
