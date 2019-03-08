@@ -1,9 +1,9 @@
-# Intersect Arrays
+# Compare Arrays
 
 Challenge:
-Given two arrays, create one array with all of the values of both and remove the duplicates.
+Given the following two arrays, find and return an array containing values that appear in both arrays.
 
 ```
-var array1 = [1, 2, 3, 4, 5, 3, 2, 4, 8];
-var array2 = [4, 5, 6, 7, 8];
+var arr1 = [1, 2, 3, 4, 5, 6];
+var arr2 = [4, 5, 6, 7, 8];
 ```
