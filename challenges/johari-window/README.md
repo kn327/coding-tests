@@ -1,4 +1,4 @@
-# Navigate Circle
+# Johari Window
 
 Challenge:
 Given a fixed list of adjectives, write a function (using OOP principles) that will model a Johari Window for a given individual. At minimum there should be a class representing an individual's Johari Window, including all of the submissions from other individuals, and a class representing a collection of Johari Windows (the controller) that the application works through. The Window should know how many people voted for each adjective, and should be able to break down what each friend's input was.
