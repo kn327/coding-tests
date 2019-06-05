@@ -43,12 +43,12 @@ var ADJECTIVES = [
     'able', 'accepting', 'adaptable', 'bold', 'brave',
     'calm', 'caring', 'cheerful', 'clever', 'complex',
     'confident', 'dependable', 'dignified', 'energetic', 'extroverted',
-    'friendly', 'giving', 'happy', 'helpful', 'idealistic'
-    'independent', 'ingenious', 'intelligent', 'introverted', 'kind'
-    'knowledgeable', 'logical', 'loving', 'mature', 'modest'
-    'nervous', 'observant', 'organized', 'patient', 'powerful'
-    'proud', 'quiet', 'reflective', 'relaxed', 'religious'
-    'responsive', 'searching', 'self-assertive', 'self-conscious', 'sensible'
+    'friendly', 'giving', 'happy', 'helpful', 'idealistic',
+    'independent', 'ingenious', 'intelligent', 'introverted', 'kind',
+    'knowledgeable', 'logical', 'loving', 'mature', 'modest',
+    'nervous', 'observant', 'organized', 'patient', 'powerful',
+    'proud', 'quiet', 'reflective', 'relaxed', 'religious',
+    'responsive', 'searching', 'self-assertive', 'self-conscious', 'sensible',
     'sentimental', 'shy', 'silly', 'spontaneous', 'sympathetic',
     'tense', 'trustworthy', 'warm', 'wise', 'witty'
 ];

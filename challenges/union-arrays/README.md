@@ -1,4 +1,4 @@
-# Intersect Arrays
+# Union Arrays
 
 Challenge:
 Given two arrays, create one array with all of the values of both and remove the duplicates.

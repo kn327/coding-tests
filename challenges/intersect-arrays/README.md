@@ -1,4 +1,4 @@
-# Compare Arrays
+# Intersect Arrays
 
 Challenge:
 Given the following two arrays, find and return an array containing values that appear in both arrays.
